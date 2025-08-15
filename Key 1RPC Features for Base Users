@@ -1,0 +1,8 @@
+Base RPC Endpoint: Users can connect to Base via https://1rpc.io/base, with one-click MetaMask integration for seamless access.
+
+Metadata Masking: Protects Base users from data leakage, critical for privacy-conscious DeFi and NFT transactions.
+Customizable API Access: Developers can define permissions and access levels for Base-specific endpoints, enhancing security.
+Multichain Compatibility: Base users operating across chains like Ethereum or Polygon benefit from 1RPC’s unified endpoint for 64+ networks.
+
+Verifiable Trust: Onchain attestation ensures Base users can trust 1RPC’s infrastructure, a unique feature in the RPC space.
+
