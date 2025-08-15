@@ -1,0 +1,2 @@
+While 1RPC is highly effective, its Developer Plan is required for advanced features like World Chain endpoints or testnet support, which may limit access for some Base users. Additionally, while 1RPC supports 64+ chains, users must ensure their wallet configurations align with Base’s chain ID (8453) and token (ETH) to avoid connectivity issues.
+
