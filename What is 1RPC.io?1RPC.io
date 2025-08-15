@@ -1,0 +1,6 @@
+Developed by Automata Network, is a Web3 RPC relay designed to protect user privacy and ensure secure interactions across over 64 blockchain networks, including Base. Unlike traditional RPC providers that may expose user metadata or be vulnerable to phishing attacks, 1RPC uses TEEs to eradicate metadata leakage, verify infrastructure integrity onchain, and provide anti-phishing safeguards. With over 2.6 million monthly active users, 1RPC offers a free, one-click experience to connect wallets like MetaMask to Base and other chains, making it an essential tool for developers and users alike.Key features of 1RPC include:Zero-Tracking Privacy: Metadata is wiped after each request, ensuring no personal data is stored or tracked.
+Onchain Attestation: 1RPC is the first RPC relay with fully attested hardware and software, allowing anyone to verify its integrity.
+Phishing Protection: Transaction sanitizers validate addresses to prevent users from signing malicious transactions.
+Multichain Support: Supports 64+ chains, including Base, Ethereum, Polygon, and Aptos, with customizable API keys for enhanced control.
+Free and Developer Plans: Offers a free tier for basic use and a Developer Plan with increased rate limits, custom API keys, and testnet support.
+
